@@ -11,7 +11,6 @@ part-time coder, and full-time adventure seeker. I love to explore new technolog
 ---
 
 - 💻 I'm currently working at [ENSA](http://ensak.usms.ac.ma/) and [1337](https://www.1337.ma/)
-<!-- - ⚙️ I use daily: `.py`, `.c`, `.sql' -->
 - 🌱 Learning all about `C` and `python`
 - 📫 Reach me: najid99m@gmail.com or [mnajid#4632 at Discord](#)
 <!-- - ⚡️ Fun fact: I'm a huge fan of **Serial Experiments Lain** and **Harry Potter** -->
