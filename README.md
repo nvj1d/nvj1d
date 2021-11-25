@@ -19,16 +19,16 @@ part-time coder, and full-time adventure seeker. I love to explore new technolog
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaten&title=Commit,Followers,Stars&theme=onedark&row=1&column=3&no-bg=true&margin-w=15&no-frame=true" alt="yaten" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nvj1d&title=Commit,Followers,Stars&theme=onedark&row=1&column=3&no-bg=true&margin-w=15&no-frame=true" alt="nvj1d" /></a>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaten&theme=dracula&hide_border=true" alt="yaten" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvj1d&theme=dracula&hide_border=true" alt="nvj1d" /></a>
 </p>
 
 ---
 ### 42 Projects
 <p align="center">
-  <!-- <a href="https://github.com/Yaten/42-libft"><img src="img/libft.png" alt="libft 115/100"></a> -->
+  <!-- <a href="https://github.com/42-libft"><img src="img/libft.png" alt="libft 115/100"></a> -->
 </p>
 
 ---
