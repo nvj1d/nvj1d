@@ -33,8 +33,7 @@ part-time coder, and full-time adventure seeker. I love to explore new technolog
 ---
 
 > *the quieter you become the more you are able to hear. – ram dass*
-
-<!--
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nvj1d&left_color=gray&right_color=blue)<!--
 **nvj1d/nvj1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
