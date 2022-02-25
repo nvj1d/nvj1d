@@ -18,14 +18,13 @@ part-time coder, and full-time adventure seeker. I love to explore new technolog
 ---
 
 <p align="center">
-   <img src="https://badge42.herokuapp.com/api/stats/mnajid?darkmode=true&cursus=42cursus)" alt="nvj1d" />
-  
+  <img src="https://badge42.herokuapp.com/api/stats/mnajid?darkmode=true&cursus=42cursus)" alt="nvj1d" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=nvj1d&show_icons=true&theme=radical" alt="nvj1d" /></a>
   <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvj1d&layout=compact&theme=radical" alt="nvj1d" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvj1d&layout=compact&theme=radical" alt="nvj1d" />
 </p>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nvj1d&show_icons=true&theme=radical)
+
 ---
 ### 42 Projects
 <p align="center">
