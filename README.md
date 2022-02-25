@@ -23,7 +23,7 @@ part-time coder, and full-time adventure seeker. I love to explore new technolog
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvj1d&theme=dracula&hide_border=true" alt="nvj1d" /></a>
 </p>
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nvj1d&show_icons=true&theme=radical)
 ---
 ### 42 Projects
 <p align="center">
